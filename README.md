@@ -1,8 +1,10 @@
-# Analisis_con_SQL
+# Análisis con SQL
 
-Aquí les comparte el segundo proyecto individual que realizamos en Henry, Herramientas: SQL Server y sql
+Aquí les comparto el segundo proyecto individual que realizamos en Henry. 
 
-Proyecto: Descubriendo la Base de Datos de Fast Food
+Herramientas: SQL Server y sql
+
+Proyecto: _**Descubriendo la Base de Datos de Fast Food**_
 
 Descripción del Proyecto
 Este proyecto consistió en la creación de una base de datos para la empresa ficticia "F & F – Fast Food Delivery", con el objetivo de mejorar la escalabilidad y eficiencia en la toma de decisiones.
